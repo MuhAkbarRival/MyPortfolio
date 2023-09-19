@@ -1,0 +1,21 @@
+body {
+  font-family: 'comis sans ms';
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+  text-align: center;
+}
+
+.jumbotron img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+#Projects {
+  background-color: #e2edff;
+  text-align: center;
+}
+section {
+  padding-top: 5rem;
+}
